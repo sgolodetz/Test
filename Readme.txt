@@ -1,1 +1,1 @@
-This is another test.
+Ok, now another user is changing something.
