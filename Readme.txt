@@ -1,1 +1,1 @@
-Ok, now another user is changing something.
+Made a change from Snow Leopard.
